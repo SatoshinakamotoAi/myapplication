@@ -36,7 +36,7 @@ class MyPrototypeApp extends StatelessWidget {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    'Lawrence S. Vivas',
+                    'Geronimo, John Carlo L.',
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                   Divider(height: 30, thickness: 1),
